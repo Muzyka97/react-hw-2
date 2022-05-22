@@ -1,0 +1,7 @@
+.btn{
+    text-transform: capitalize;
+    margin-right: 10px;
+}
+.feedBackButton{
+    display: flex;
+}
